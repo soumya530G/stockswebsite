@@ -107,7 +107,7 @@ List of things you might need:
 1. Make sure you got HTML, CSS and Javascript extenstion
 2. Clone the repo
    ```sh
-   git clone https://github.com/soumya530G/cs50-final-project.git
+   https://github.com/soumya530G/stockswebsite.git
    ```
 3. Install XAMPP on your system
    https://www.apachefriends.org/download.html
@@ -127,7 +127,7 @@ Soumya Gupta <br>
 [Twitter](https://twitter.com/@SoumyaG22868897), [Github](https://github.com/soumya530G),
 [Linkedin](https://www.linkedin.com/in/soumya-gupta-595a52208/)  
 Email: soumyamns002@gmail.com <br>  
-Project Link: [https://github.com/soumya530G/cs50-final-project](https://github.com/soumya530G/cs50-final-project)
+Project Link: [https://github.com/soumya530G/stockswebsite.git](https://github.com/soumya530G/stockswebsite.git)
 
 <!-- ACKNOWLEDGEMENTS -->
 
