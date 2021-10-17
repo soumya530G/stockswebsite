@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Looping an Array</h2>
+<p id="demo"></p>
+
+<script>
+//const myJSON = '{"name":"John", "age":30, "cars":["Ford", "BMW", "Fiat"]}';
+const myJSON ='{"data" :["Intraday (5min) open, high, low, close prices and volume","AAPL","2021-10-08 20:00:00","5min","Compact","US/Eastern"]}'
+const myObj = JSON.parse(myJSON);
+
+let text = "";
+for (let i = 0; i < myObj.data.length; i++) {
+  text += myObj.data[i] + ", ";
+}
+
+document.getElementById("demo").innerHTML = text;
+</script>
+
+</body>
+</html>
